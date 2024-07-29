@@ -13,7 +13,7 @@ fi
 vehicle=$1
 case $vehicle in
    "car" )
-      echo "rent of the car is 10";;
+      echo "rent of the car is 18";;
    "bus" )
       echo "rent of the bus is 20";;
    "truck" )
